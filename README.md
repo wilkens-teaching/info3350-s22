@@ -10,7 +10,7 @@
 
 **Term:** Spring 2022\
 **Credits:** 3\
-**Mode:** In person unless Covid (then ```¯\_(ツ)_/¯```)
+**Mode:** In person except as required by Cornell (```¯\_(ツ)_/¯```)
 
 **Lecture:** MW 9:05-9:55am, Olin 245\
 **Sections:**
