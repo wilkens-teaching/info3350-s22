@@ -19,6 +19,7 @@
   * F 11:20-12:10 Hollister 312
   * F 12:25-1:15  Philips 307
   * *Additional grad section*: F 1:30-2:20pm (to be confirmed)
+
 **Office hours:** See [Canvas](https://canvas.cornell.edu/courses/39210)
 
 **Online sessions and resources:** See the [**Mechanics**](#mechanics) section below.
