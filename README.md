@@ -10,15 +10,15 @@
 
 **Term:** Spring 2022\
 **Credits:** 3\
-**Mode:** In person unless Covid -> ¯\_(ツ)_/¯
+**Mode:** In person unless Covid (then ```¯\_(ツ)_/¯```)
 
-**Lecture:** MW 9:05-9:55am Eastern, Olin 245\
-**Sections:**\
-  * F  9:05-9:55  Olin 145\
-  * F 10:10-11:00 Upson 146\
-  * F 11:20-12:10 Hollister 312\
-  * F 12:25-1:15  Philips 307\
-*Additional grad section*: F 1:30-2:20pm (to be confirmed)\
+**Lecture:** MW 9:05-9:55am, Olin 245\
+**Sections:**
+  * F  9:05-9:55  Olin 145
+  * F 10:10-11:00 Upson 146
+  * F 11:20-12:10 Hollister 312
+  * F 12:25-1:15  Philips 307
+  * *Additional grad section*: F 1:30-2:20pm (to be confirmed)
 **Office hours:** See [Canvas](https://canvas.cornell.edu/courses/39210)
 
 **Online sessions and resources:** See the [**Mechanics**](#mechanics) section below.
@@ -60,10 +60,11 @@ Grades will be based on weekly problem sets (50% in sum), a midterm mini-project
 
 ### Texts and readings
 
-**There is one required textbook for the course.** 
-* Karsdorp, Kestemont, and Riddell. [*Humanities Data Analysis*](https://www.cornellstore.com/adoption-search-results?ccid=335984&itemid=359684). Readings from this textbook will be assigned for most weeks.
+There is one required textbook for the course:
 
-All other assigned readings will be available online, either through the open web or via Canvas. See the [schedule](./schedule.md) for details.
+* Karsdorp, Kestemont, and Riddell. [*Humanities Data Analysis*](https://www.cornellstore.com/adoption-search-results?ccid=335984&itemid=359684). 
+
+Readings from this textbook will be assigned for most weeks. All other assigned readings will be available online, either through the open web or via Canvas. See the [schedule](./schedule.md) for details.
 
 There are four textbooks that may be useful for students who wish to consult them. **They are not required and most students will not need them.**
 
@@ -90,7 +91,7 @@ A **final exam** in the form of a take-home project is due during the finals per
 
 #### Attendance and late work
 
-This is a class of moderate size that will make frequent use of class time to discuss readings and to debate different approaches to academic inquiry. For this reason, **attendance (virtual and physical, as circumstances dictate) is required**. When meeting by Zoom, your camera must be on (or you will be marked absent). If you feel your circumstances require an except to this policy, you should consult Professor Wilkens directly to explain why.
+This is a class of moderate size that will make frequent use of class time to discuss readings and to debate different approaches to academic inquiry. For this reason, **attendance (virtual and physical, as circumstances dictate) is required**. When meeting by Zoom, your camera must be on or you will be marked absent. If you feel your circumstances require an exception to this policy, you should consult with me directly to explain why.
 
 Students in mandatory isolation or who are in highly displaced time zones and who have received individual permission are excused from attending Monday and Wednesday lectures. These students should watch the recorded lectures as soon as they are available and post any questions to Ed.
 
