@@ -20,8 +20,7 @@
   * F 12:25-1:15  Philips 307
   * *Additional grad section*: F 1:30-2:20pm (to be confirmed)
 
-**Office hours:** See [Canvas](https://canvas.cornell.edu/courses/39210)
-
+**Office hours:** See [Canvas](https://canvas.cornell.edu/courses/39210)\
 **Online sessions and resources:** See the [**Mechanics**](#mechanics) section below.
 
 ### Waitlist
@@ -46,7 +45,7 @@ The primary objective of the course is to build proficiency in text analysis and
 
 We will use:
 
-* **GitHub** to distribute lecture materials, code, and datasets. The current version of the syllabus (this page) is always on GitHub, too.
+* **GitHub** (right here) to distribute lecture materials, code, and datasets. The current version of the syllabus (this page) is always on GitHub, too.
 * **Canvas** to distribute restricted readings and other non-public materials.
 * **CMS** to manage problem sets and other code work and to track grades.
 * **Ed** for Q&A. 
