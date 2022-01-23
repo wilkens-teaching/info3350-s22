@@ -45,7 +45,7 @@ The primary objective of the course is to build proficiency in text analysis and
 
 We will use:
 
-* **GitHub** (right here) to distribute lecture materials, code, and datasets. The current versions of the syllabus (this page) and the [schedule](./schedule.md) are always on GitHub, too.
+* **GitHub** (right here) to distribute lecture materials, code, and datasets. The current versions of the syllabus (this page) and the [schedule](./schedule.md) are always on GitHub, too. You might want to watch or star this repo to be notified of changes.
 * **CMS** to manage problem sets and other code work and to track grades.
 * **Canvas** to distribute restricted readings and other non-public materials, including Zoom links.
 * **Ed** for Q&A. 
