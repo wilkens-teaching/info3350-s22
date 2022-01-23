@@ -25,7 +25,7 @@
 
 ### Waitlist
 
-If the course is full at registration time, you may add yourself to the [waitlist](https://forms.gle/kcp3x4FrhNMRixHF9). If and when you have been admitted, you will receive a PIN that will allow you to complete registration.
+Both the course and the waitlist are full. If you are currently on the waitlist, we will send you a Zoom link so that you can attend lectures during the add/drop period.
 
 ### Summary
 
@@ -45,10 +45,11 @@ The primary objective of the course is to build proficiency in text analysis and
 
 We will use:
 
-* **GitHub** (right here) to distribute lecture materials, code, and datasets. The current version of the syllabus (this page) is always on GitHub, too.
+* **GitHub** (right here) to distribute lecture materials, code, and datasets. The current versions of the syllabus (this page) and the [schedule](./schedule.md) are always on GitHub, too.
 * **CMS** to manage problem sets and other code work and to track grades.
 * **Canvas** to distribute restricted readings and other non-public materials, including Zoom links.
 * **Ed** for Q&A. 
+* **Google Drive** to build and manage a class corpus.
 
 Links and detailed info about each of these are available via the [course Canvas site](https://canvas.cornell.edu/courses/39210).
 
@@ -56,7 +57,7 @@ Note that you must generally be logged in through your Cornell account to access
 
 ### Work and grading
 
-Grades will be based on weekly problem sets (50% in sum), a midterm mini-project (15%), reading responses (10% in sum), a take-home final exam or optional final project (20%), and consistent professionalism (including attendance and participation) (5%). *You must achieve a passing grade in each of these components to pass the course.*
+Grades will be based on weekly problem sets (50% in sum), a midterm mini-project (15%), reading responses (10% in sum), a take-home final exam or optional final project (20%), and consistent professionalism (including attendance and participation, 5%). *You must achieve a passing grade in each of these components to pass the course.*
 
 **Graduate students** (enrolled in 6350) must complete a final project in place of the final exam and are strongly encouraged to attend an additional weekly section meeting for 6350 (Fridays, time to be determined).
 
@@ -87,15 +88,23 @@ For the detailed (and updating) list of topics and readings, see the course [sch
 
 A **final exam** in the form of a take-home project is due during the finals period. More information will be posted as that time draws closer.
 
-**Undergraduates** (enrolled in 3350) may elect to complete a project in lieu of the exam. If you elect to take this route, you may work in a group of up to three students. The expected amount of work on the project will be scaled by the number of group members. Except in unusual circumstances, all group members will receive the same grade.
+**Undergraduates** (enrolled in 3350) may elect to complete a project in lieu of the exam. If you take this route, you may work in a group of up to three students. The expected amount of work on the project will be scaled by the number of group members. Except in unusual circumstances, all group members will receive the same grade.
 
 **Graduate students** (enrolled in 6350) **must** complete an independent project in place of the final exam. 
 
 ### Policies
 
+#### Harassment and respect
+
+All students are entitled to respect from course staff and from their fellow students. All staff are entitled to respect from students and from fellow staff members. Violations of this principle, whether large or small, will not be tolerated.
+
+Respect means that your ideas are taken seriously, that you feel welcome in class settings (including in study groups and online fora), and that you are treated as a full, co-equal member of the class. Harassment describes any action, intentional or otherwise, that abridges the respect owed to every member of the class.
+
+If you experience harassment in any form, or if you would like to discuss your experience in the class, please see me in office hours or contact me by email. The university also has reporting and counseling resources available, including those for [sexual harassment](https://gradschool.cornell.edu/policies/sexual-misconduct-including-harassment/) and for [other bias incidents](https://gradschool.cornell.edu/diversity-inclusion/reporting-bias/).
+
 #### Attendance
 
-This is a class of moderate size that will make frequent use of class time to discuss readings and to debate different approaches to academic inquiry. It also has a waitlist a mile long. For this reason, **attendance (virtual and physical, as circumstances dictate) is required**. When meeting by Zoom, your camera must be on or you will be marked absent. If you feel your circumstances require an exception to this policy, you should consult with me directly to explain why.
+This is a class of moderate size that will make frequent use of class time to discuss readings and to debate different approaches to academic inquiry. It also has a waitlist a mile long. For this reason, **attendance (virtual and physical, as circumstances dictate) is required**. When meeting by Zoom, **your camera must be on** or you will be marked absent. If you feel your circumstances require an exception to this policy, you should consult with Professor Wilkens directly to explain why.
 
 Students in mandatory isolation or who are in highly displaced time zones and who have received individual permission are excused from attending Monday and Wednesday lectures. These students should watch the recorded lectures as soon as they are available and post any questions to Ed.
 
@@ -105,17 +114,17 @@ If you need to miss a class meeting, please complete the [absence form](https://
 
 #### Slip days
 
-**Late work** is accepted subject to a limit of **ten total slip days** for the semester. You may submit any individual assignment up to **four** days late. The slip day policy *does not* apply to the reading responses, which may not be submitted late, since they are tied to in-class activities. 
+**Late work** is accepted subject to a limit of **ten total slip days** for the semester. You may submit any individual assignment up to **four** days (96 hours) late. The slip day policy *does not* apply to the reading responses, which may not be submitted late, since they are tied to in-class activities. 
 
 If you expect to miss a deadline or to be absent for an extended period due to truly exceptional circumstances, contact Professor Wilkens as far in advance as possible so that we can discuss potential accommodations.
 
-#### Harassment and respect
+#### Regrade requests
 
-All students are entitled to respect from course staff and from their fellow students. All staff are entitled to respect from students and from fellow staff members. Violations of this principle, whether large or small, will not be tolerated.
+If you feel that the graders have made a clear, objective, and significant mistake in assessing your work, you may request a regrade via CMS not later than one week after feedback is released. Remember that this process exists to correct mistakes. This process does not exist to lobby for points.
 
-Respect means that your ideas are taken seriously, that you feel welcome in class settings (including in study groups and online fora), and that you are treated as a full, co-equal member of the class. Harassment describes any action, intentional or otherwise, that abridges the respect owed to every member of the class.
+Regrade requests are typically processed within a week or two of submission. You will be notified of the outcome as soon as it is ready.
 
-If you experience harassment in any form, or if you would like to discuss your experience in the class, please see me in office hours or contact me by email. The university also has reporting and counseling resources available, including those for [sexual harassment](https://gradschool.cornell.edu/policies/sexual-misconduct-including-harassment/) and for [other bias incidents](https://gradschool.cornell.edu/diversity-inclusion/reporting-bias/).
+We want to give grades that accurately represent our assessment of your understanding of course material. Hence, if you are given a lower score than you should have been, due to an obvious grading error, you should absolutely bring it to our attention. However, we must explicitly mention an additional consequence of the importance of grade accuracy: if we notice that you have been assigned more points than you should have been, we are duty-bound to correct such scores downward to the correct value.
 
 #### Academic integrity
 
@@ -130,7 +139,7 @@ Project work that relates to your other classes or research is encouraged, but y
 Every student's access is important to us. If you have, or think you may have, a disability, please contact Student Disability Services for a confidential discussion: [sds_cu@cornell.edu](mailto:sds_cu@cornell.edu), 607-254-4545, or [sds.cornell.edu](https://sds.cornell.edu/). 
 
 * Please request any accommodation letter early in the semester, or as soon as you become registered with [Student Disability Services](https://sds.cornell.edu/) (SDS), so that we have adequate time to arrange your approved academic accommodations.
-* Once SDS approves your accommodation letter, it will be emailed to you and to me. Please follow up with me to discuss the necessary logistics of your accommodations.
+* Once SDS approves your accommodation letter, it will be emailed to you and to me. **Please follow up with me to discuss the necessary logistics of your accommodations.**
 * If you are approved for exam accommodations, please consult with me at least two weeks before the scheduled exam date to confirm the testing arrangements.
 * If you experience any access barriers in this course, such as with printed content, graphics, online materials, or any communication barriers, reach out to me and/or your SDS counselor right away.
 * If you need an immediate accommodation, please speak with me after class or send an email message to me and to [SDS](mailto:sds_cu@cornell.edu).
