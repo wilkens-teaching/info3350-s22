@@ -52,6 +52,8 @@ We will use:
 
 Links and detailed info about each of these are available via the [course Canvas site](https://canvas.cornell.edu/courses/39210).
 
+Note that you must generally be logged in through your Cornell account to access non-public resources such as Zoom meetings, lecture recordings, Google Drive folders.
+
 ### Work and grading
 
 Grades will be based on weekly problem sets (50% in sum), a midterm mini-project (15%), reading responses (10% in sum), a take-home final exam or optional final project (20%), and consistent professionalism (including attendance and participation) (5%). *You must achieve a passing grade in each of these components to pass the course.*
