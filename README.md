@@ -46,17 +46,19 @@ The primary objective of the course is to build proficiency in text analysis and
 We will use:
 
 * **GitHub** (right here) to distribute lecture materials, code, and datasets. The current version of the syllabus (this page) is always on GitHub, too.
-* **Canvas** to distribute restricted readings and other non-public materials.
 * **CMS** to manage problem sets and other code work and to track grades.
+* **Canvas** to distribute restricted readings and other non-public materials, including Zoom links.
 * **Ed** for Q&A. 
 
 Links and detailed info about each of these are available via the [course Canvas site](https://canvas.cornell.edu/courses/39210).
 
 ### Work and grading
 
-Grades will be based on weekly problem sets (50% in sum), a midterm mini-project (15%), reading responses (10% in sum), a take-home final exam or optional final project (20%), and class participation (5%). *You must achieve a passing grade in each of these components to pass the course.*
+Grades will be based on weekly problem sets (50% in sum), a midterm mini-project (15%), reading responses (10% in sum), a take-home final exam or optional final project (20%), and consistent professionalism (including attendance and participation) (5%). *You must achieve a passing grade in each of these components to pass the course.*
 
 **Graduate students** (enrolled in 6350) must complete a final project in place of the final exam and are strongly encouraged to attend an additional weekly section meeting for 6350 (Fridays, time to be determined).
+
+A small amount of **extra credit** will be awarded for IS/Communications SONA study completion (0.5 course point per SONA credit assigned to this class, up to 1.0 total course point) and for consistent, helpful contributions to Ed discussions (up to 1.0 course point).
 
 ### Texts and readings
 
@@ -89,15 +91,17 @@ A **final exam** in the form of a take-home project is due during the finals per
 
 ### Policies
 
-#### Attendance and late work
+#### Attendance
 
-This is a class of moderate size that will make frequent use of class time to discuss readings and to debate different approaches to academic inquiry. For this reason, **attendance (virtual and physical, as circumstances dictate) is required**. When meeting by Zoom, your camera must be on or you will be marked absent. If you feel your circumstances require an exception to this policy, you should consult with me directly to explain why.
+This is a class of moderate size that will make frequent use of class time to discuss readings and to debate different approaches to academic inquiry. It also has a waitlist a mile long. For this reason, **attendance (virtual and physical, as circumstances dictate) is required**. When meeting by Zoom, your camera must be on or you will be marked absent. If you feel your circumstances require an exception to this policy, you should consult with me directly to explain why.
 
 Students in mandatory isolation or who are in highly displaced time zones and who have received individual permission are excused from attending Monday and Wednesday lectures. These students should watch the recorded lectures as soon as they are available and post any questions to Ed.
 
 If you need to miss a class meeting, please complete the [absence form](https://forms.gle/ZQqeoqQKsGr9mhkx9) *before the meeting in question* and watch the recorded video of the session you missed once it is available. If you miss section on Friday, a recording may not be available. Consult with your section leader for appropriate steps. In every case, assigned work remains due at the appointed time. 
 
 **Note:** *Participation* is much more important than *attendance*. Your grade will not suffer if you make the wise decision to stay home when you might infect others.
+
+#### Slip days
 
 **Late work** is accepted subject to a limit of **ten total slip days** for the semester. You may submit any individual assignment up to **four** days late. The slip day policy *does not* apply to the reading responses, which may not be submitted late, since they are tied to in-class activities. 
 
