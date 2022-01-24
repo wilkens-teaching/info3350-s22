@@ -1,10 +1,12 @@
 # Schedule
 
-**All assignments and dates are subject to change.** 
+## All assignments and dates are subject to change
 
-Problem sets will be distributed via CMS no later than the Friday indicated. They are are due the following Thursday evening via CMS unless otherwise indicated on CMS.
+**Readings** are **due** on the day indicated.
 
-Occasional brief responses are due on Tuesdays before 3pm. Details to come once enrollment is finalized.
+**Problem sets** will be **distributed** via CMS no later than the Friday indicated. They are are due the following Thursday evening via CMS unless otherwise indicated on CMS.
+
+Occasional brief **responses** are due on Tuesdays before 3pm. Details to come once enrollment is finalized.
 
 * **HDA** = *Humanities Data Analysis*, the course textbook
 * **JM** = Jurafsky and Martin, *Speech and Language Processing, 3rd ed.* (online)
