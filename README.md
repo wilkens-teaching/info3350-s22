@@ -33,13 +33,13 @@ A course on the uses of text mining and other data-intensive techniques to assis
 
 ### Description
 
-Broadly speaking, the course covers text mining, content analysis, and basic machine learning, emphasizing approaches with demonstrated value in literary studies and other humanistic fields. Students will learn how to clean and process textual corpora, extract information from unstructured texts, identify relevant textual and extra-textual features, assess document similarity, cluster and classify authors and texts using a variety of machine-learning methods, visualize the outputs of statistical models, and incorporate quantitative evidence into literary and humanistic analysis. The course will also introduce some of the more interesting recently published results in computational and quantitative humanities. 
+Broadly speaking, the course covers text mining, content analysis, and basic machine learning, emphasizing approaches with demonstrated value in literary studies and other humanistic fields. Students will learn how to clean and process textual corpora, extract information from unstructured texts, identify relevant textual and extra-textual features, assess document similarity, cluster and classify authors and texts using a variety of machine-learning methods, visualize the outputs of statistical models, and incorporate quantitative evidence into literary and humanistic analysis. The course will also introduce some of the more interesting recently published results in computational and quantitative humanities.
 
 Most of the methods treated in the class are relevant in multiple fields. Students from all majors are welcome. Students with backgrounds in the humanities are especially encouraged to join.
 
 ### Objectives and learning goals
 
-The primary objective of the course is to build proficiency in text analysis and data mining for the humanities. Students who complete the course will have knowledge of standard approaches to text analysis and will be familiar with the humanistic ends to which those approaches might be put. Secondary objectives include acquiring basic understanding of relevant literary history, of integrating quantitative with qualitative evidence, and of best practices in small-scale project management. 
+The primary objective of the course is to build proficiency in text analysis and data mining for the humanities. Students who complete the course will have knowledge of standard approaches to text analysis and will be familiar with the humanistic ends to which those approaches might be put. Secondary objectives include acquiring basic understanding of relevant literary history, of integrating quantitative with qualitative evidence, and of best practices in small-scale project management.
 
 ### Mechanics
 
@@ -48,7 +48,7 @@ We will use:
 * **GitHub** (right here) to distribute lecture materials, code, and datasets. The current versions of the syllabus (this page) and the [schedule](./schedule.md) are always on GitHub, too. You might want to watch or star this repo to be notified of changes.
 * **CMS** to manage problem sets and other code work and to track grades.
 * **Canvas** to distribute restricted readings and other non-public materials, including Zoom links.
-* **Ed** for Q&A. 
+* **Ed** for Q&A.
 * **Google Drive** to build and manage a class corpus.
 
 Links and detailed info about each of these are available via the [course Canvas site](https://canvas.cornell.edu/courses/39210).
@@ -67,7 +67,7 @@ A small amount of **extra credit** will be awarded for IS/Communications SONA st
 
 There is one required textbook for the course:
 
-* Karsdorp, Kestemont, and Riddell. [*Humanities Data Analysis*](https://www.cornellstore.com/adoption-search-results?ccid=335984&itemid=359684). 
+* Karsdorp, Kestemont, and Riddell. [*Humanities Data Analysis*](https://www.cornellstore.com/adoption-search-results?ccid=335984&itemid=359684).
 
 Readings from this textbook will be assigned for most weeks. All other assigned readings will be available online, either through the open web or via Canvas. See the [schedule](./schedule.md) for details.
 
@@ -90,7 +90,7 @@ A **final exam** in the form of a take-home project is due during the finals per
 
 **Undergraduates** (enrolled in 3350) may elect to complete a project in lieu of the exam. If you take this route, you may work in a group of up to three students. The expected amount of work on the project will be scaled by the number of group members. Except in unusual circumstances, all group members will receive the same grade.
 
-**Graduate students** (enrolled in 6350) **must** complete an independent project in place of the final exam. 
+**Graduate students** (enrolled in 6350) **must** complete an independent project in place of the final exam.
 
 ### Policies
 
@@ -108,13 +108,13 @@ This is a class of moderate size that will make frequent use of class time to di
 
 Students in mandatory isolation or who are in highly displaced time zones and who have received individual permission are excused from attending Monday and Wednesday lectures. These students should watch the recorded lectures as soon as they are available and post any questions to Ed.
 
-If you need to miss a class meeting, please complete the [absence form](https://forms.gle/ZQqeoqQKsGr9mhkx9) *before the meeting in question* and watch the recorded video of the session you missed once it is available. If you miss section on Friday, a recording may not be available. Consult with your section leader for appropriate steps. In every case, assigned work remains due at the appointed time. 
+If you need to miss a class meeting, please complete the [absence form](https://forms.gle/ZQqeoqQKsGr9mhkx9) *before the meeting in question* and watch the recorded video of the session you missed once it is available. If you miss section on Friday, a recording may not be available. Consult with your section leader for appropriate steps. In every case, assigned work remains due at the appointed time.
 
 **Note:** *Participation* is much more important than *attendance*. Your grade will not suffer if you make the wise decision to stay home when you might infect others.
 
 #### Slip days
 
-**Late work** is accepted subject to a limit of **ten total slip days** for the semester. You may submit any individual assignment up to **four** days (96 hours) late. The slip day policy *does not* apply to the reading responses, which may not be submitted late, since they are tied to in-class activities. 
+**Late work** is accepted subject to a limit of **ten total slip days** for the semester. You may submit any individual assignment up to **four** days (96 hours) late. The slip day policy *does not* apply to the reading responses, which may not be submitted late, since they are tied to in-class activities.
 
 If you expect to miss a deadline or to be absent for an extended period due to truly exceptional circumstances, contact Professor Wilkens as far in advance as possible so that we can discuss potential accommodations.
 
@@ -136,7 +136,7 @@ Project work that relates to your other classes or research is encouraged, but y
 
 #### Disabilities
 
-Every student's access is important to us. If you have, or think you may have, a disability, please contact Student Disability Services for a confidential discussion: [sds_cu@cornell.edu](mailto:sds_cu@cornell.edu), 607-254-4545, or [sds.cornell.edu](https://sds.cornell.edu/). 
+Every student's access is important to us. If you have, or think you may have, a disability, please contact Student Disability Services for a confidential discussion: [sds_cu@cornell.edu](mailto:sds_cu@cornell.edu), 607-254-4545, or [sds.cornell.edu](https://sds.cornell.edu/).
 
 * Please request any accommodation letter early in the semester, or as soon as you become registered with [Student Disability Services](https://sds.cornell.edu/) (SDS), so that we have adequate time to arrange your approved academic accommodations.
 * Once SDS approves your accommodation letter, it will be emailed to you and to me. **Please follow up with me to discuss the necessary logistics of your accommodations.**
