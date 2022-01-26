@@ -10,7 +10,7 @@ To make this work, you need a few things:
 
 1. A **package manager** that installs and updates the python software that you need. In our case, the package manager is `conda` (not to be confused with the Anaconda distribution of python, though `conda` is an Anaconda product and often installs python software distributed by Anaconda).
 1. A **python environment**, including an interpreter that executes python code. If you type `python` at the command line, you're invoking the python interpreter, but that's not the only way to interact with it. In fact ...
-1. A **Jupyter server** that renders Jupyter notebooks, passes code to the interpreter, and receives output back from the interpreter. (I'm waiving my hands here a bit, because the actual rendering is handled by a web browser or similar front end.) 
+1. A **Jupyter server** that renders Jupyter notebooks, passes code to the interpreter, and receives output back from the interpreter. (I'm waiving my hands here a bit, because the actual rendering is handled by a web browser or similar front end.)
 
 Note that, when you're working with Jupyter notebooks, you're typically looking at a web browser that's displaying content served by a Jupyter server, which in turn is interacting (behind the scenes) with a python interpreter (also called a *kernel*). In most cases (including our work for this class), the browser, Jupyter server, and python kernel are running on the same machine (your laptop, for example). But this needn't always be the case. [Google Colab](https://colab.research.google.com/) is an example of a Jupyter server and kernel system that runs in the cloud.
 
@@ -40,7 +40,7 @@ conda create --name 3350 --file info-3350-packages.txt
 
 ```
 conda activate 3350
-python -m nltk.downloader punkt wordnet vader_lexicon snowball_data sentiwordnet treebank
+python -m nltk.downloader omw-1.4 punkt sentiwordnet snowball_data stopwords treebank vader_lexicon
 python -m spacy download en_core_web_sm
 python -m spacy download en_core_web_lg
 ```
