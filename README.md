@@ -71,9 +71,10 @@ There is one required textbook for the course:
 
 Readings from this textbook will be assigned for most weeks. All other assigned readings will be available online, either through the open web or via Canvas. See the [schedule](./schedule.md) for details.
 
-There are four textbooks that may be useful for students who wish to consult them. **They are not required and most students will not need them.**
+There are five textbooks that may be useful for students who wish to consult them. **They are not required and most students will not need them.**
 
 * Guttag. [*Introduction to Computation and Programming Using Python (3rd ed.)*](https://www.amazon.com/dp/0262542366/). Useful for students who need or want a refresher on basic concepts in Python.
+* Walsh. [Introduction to Cultural Analytics and Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html). An intro-level, interactive textbook developed at Cornell that covers material similar to 3350. A good place to start if you're feeling behind on the fundamentals.
 * Bengfort, Bilbro, and Ojeda. [*Applied Text Analysis with Python*](https://www.amazon.com/dp/1491963042). A *very* applied book intended for working developers who want to learn the standard Python stack for text analysis.
 * Jurafsky and Martin. [*Speech and Language Processing (3rd ed.)*](https://web.stanford.edu/~jurafsky/slp3/). A detailed textbook focusing on many of the core topics in natural language processing. Probably more advanced than most students will require, but a great resource for those who want more technical depth. The linked version is the openly available draft of the third edition. The published [second edition is also available for sale](https://www.amazon.com/dp/0131873210).
 * Jockers and Thalken. [*Text Analysis with R for Students of Literature (2nd ed.)*](https://www.amazon.com/dp/B086KZL3DR). An ideal textbook for this class, but in R. Co-authored by one of our PhD TAs!
