@@ -64,6 +64,8 @@ conda activate 3350
 conda update --file info-3350-packages.txt
 ```
 
+If we add any packages to the list (again, unlikely but not impossible), you'd also need to run `conda install --file info-3350-packages.txt` as a final step to install those newly added packages.
+
 ## The filesystem
 
 Lectures, problem sets, projects, and other course material will be distributed as Jupyter notebook files. These files, if you ever have occasion to inspect them in a text editor, are just JSON documents. In the same way that raw HTML files look like plain text with a lot of angle brackets and so on, but become rendered web pages when displayed in a browser, so too are Jupyter notebooks only really useful when rendered (unless you're a developer of the underlying system).
