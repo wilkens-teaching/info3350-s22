@@ -6,7 +6,7 @@
 
 **Problem sets** will be **distributed** via CMS no later than the Friday indicated. They are are due the following Thursday evening via CMS unless otherwise indicated on CMS.
 
-Occasional brief **responses** are due on Tuesdays before 3pm. Details to come once enrollment is finalized.
+Occasional brief **responses** are due as assigned on Tuesdays before 4:00pm. For details, see the [Discussions section of Canvas](https://canvas.cornell.edu/courses/39210/discussion_topics/390956).
 
 * **HDA** = *Humanities Data Analysis*, the course textbook
 * **JM** = Jurafsky and Martin, *Speech and Language Processing, 3rd ed.* (online)
