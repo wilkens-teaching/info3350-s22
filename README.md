@@ -12,7 +12,7 @@
 **Credits:** 3\
 **Mode:** In person except as required by Cornell (```¯\_(ツ)_/¯```)
 
-**Lecture:** MW 9:05-9:55am, Olin 245\
+**Lecture:** MW 9:05-9:55am, Baker Lab 335 [**updated**]\
 **Sections:**
   * F  9:05-9:55  Olin 145
   * F 10:10-11:00 Upson 146
