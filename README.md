@@ -5,7 +5,7 @@
 ### Staff and sections
 
 **Instructor:** [Matthew Wilkens](https://infosci.cornell.edu/content/Wilkens)\
-**Graduate TAs:** [Federica Bologna](https://www.linkedin.com/in/federica-bologna-12a570197), [Rosamund Thalken](https://rosamondthalken.com/)\
+**Graduate TAs:** [Federica Bologna](https://www.linkedin.com/in/federica-bologna-12a570197), [Rosamond Thalken](https://rosamondthalken.com/)\
 **Undergrad TAs:** Steven Chen, Naba Deyab, Isabel Frank, Zilu Li, Lindsey Luo, Daniel Riley, Aishwarya Singh, Ray Wang
 
 **Term:** Spring 2022\
