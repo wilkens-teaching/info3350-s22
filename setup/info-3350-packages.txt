@@ -12,6 +12,7 @@ requests
 scikit-image
 scikit-learn
 seaborn
+skater
 spacy
 statsmodels
 umap-learn
