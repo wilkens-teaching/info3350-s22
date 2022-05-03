@@ -1,0 +1,63 @@
+
+Topics in LDA model: 20 topics 5 removed top words
+
+Topic 0
+year semester time last classes years summer next fall first take one since online two think got much would didn still ago start freshman really
+
+Topic 1
+campus ithaca live single housing west room living house looking dorm apartment one year would dorms nyc rent north roommate double city collegetown interested new
+
+Topic 2
+know want really going feel need would time life make one right anyone trying way even let someone anything better much else stay take could
+
+Topic 3
+food dining money pay use eat plan need cost meal tuition also buy halls used free paid much price yes brbs NUMk refund using laptop
+
+Topic 4
+email students please post student university event group law information said speech free support send protest sent new department freedom community posts would contact emails
+
+Topic 5
+covid mask masks virus cases wear risk still sick testing health test spread flu wearing tested person case medical even coronavirus disease one positive pandemic
+
+Topic 6
+room also hall bus building library night campus please around one free open water use lost anyone store outside used found right minutes fire walking
+
+Topic 7
+think know would even really say someone actually make one sure didn lol doesn probably said post mean much maybe something person yeah though question
+
+Topic 8
+day got one lol shit good never see guy man love every literally back thought ever went today slope nothing would look yeah time hear
+
+Topic 9
+really school friends lot also good think college much life great things ithaca feel find experience pretty make social many best better big high would
+
+Topic 10
+campus back break day home anyone ithaca spring would come know time april leave stay NUMth may students going open week last days NUMpm need
+
+Topic 11
+take classes class credits major credit pre requirements would one med courses course requirement need want count also info semester taking enroll drop advisor fws
+
+Topic 12
+https //www reddit view poll utm google source app link share png youtube html xNUMb medium com/watch format pdf name com/ auto website width redd
+
+Topic 13
+students s/u grades would semester student gpa universal grade think school opt system point schools mandatory policy option grading everyone grad pass pandemic choice take
+
+Topic 14
+school students student aid financial program college year got schools grad research also high would good undergrad apply top accepted gpa money NUMk transfer admissions
+
+Topic 15
+class classes professor time hours work prelim took one exam really course professors also lecture final grade exams week lectures semester last material much hard
+
+Topic 16
+time even work would many much think one money students still family every isn going job life make real part world working made less lot
+
+Topic 17
+chinese data think women asian different white also china use language many world social government race way action non learn based human would political say
+
+Topic 18
+think make way know help might feel need could sure time really good best see professor health well also try ask right something professors understand
+
+Topic 19
+major classes take math would engineering courses physics course class also want taking know science taken majors transfer thanks econ anyone level much really lot
+

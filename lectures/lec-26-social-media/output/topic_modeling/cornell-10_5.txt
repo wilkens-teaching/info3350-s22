@@ -1,0 +1,33 @@
+
+Topics in LDA model: 10 topics 5 removed top words
+
+Topic 0
+covid students campus mask health masks university cases wear virus risk still home case new faculty would many stay wearing policy spread community sick flu
+
+Topic 1
+students would school think s/u grades student schools point even gpa grad many one doesn take semester everyone isn universal way good make want really
+
+Topic 2
+campus room one day single west food also hall dorm live dining looking around housing anyone building walk house know night bus year north please
+
+Topic 3
+post right even fuck someone think said one see say would person never stop white shit way chinese want lol literally actually saying mean doesn
+
+Topic 4
+money pay aid ithaca financial year would students NUMk also student need campus cost work much tuition years summer nyc going housing paying family back
+
+Topic 5
+https //www reddit view poll link google utm app email source please student share use see check survey new website xNUMb post png youtube html
+
+Topic 6
+semester class time last classes got one week back online going still know day next take year first fall didn professor spring prelim even think
+
+Topic 7
+know really time good think make would feel work things want find much lot help way try need also something sure one hard might best
+
+Topic 8
+school life really one much think time college friends got going good years lot ithaca year never great love even know feel lol also pretty
+
+Topic 9
+classes class take major would also course engineering courses math taking credit transfer want took one school year much semester research physics taken really lot
+
